@@ -1,36 +1,61 @@
-## Welcome to GitHub Pages
+State of the Industry Report on Copywriter Rates and Top Performing Marketing Methods: 
+# Copywriting Essentials for Marketing Success
 
-You can use the [editor on GitHub](https://github.com/fredsiika/fredsiika.github.io/edit/master/index.md) to maintain and preview the content for your website in Markdown files.
+## Scale your Startup
+Whether you're Aviato or Hooli, content marketing is the best way to build your audience and awareness.
+Expert writers. Intuitive content workflow tools. Only pay for what you love.
 
-Whenever you commit to this repository, GitHub Pages will run [Jekyll](https://jekyllrb.com/) to rebuild the pages in your site, from the content in your Markdown files.
+--- 
 
-### Markdown
+**INSIDE THIS GUIDE:**
+- How to Recognize and Hire Skilled Copywriters
+- What’s Working Best in Copywriting Today
+- Copywriter Fees for the Top 75 Marketing Projects
+- Copywriting Essentials for Marketing Success
 
-Markdown is a lightweight and easy-to-use syntax for styling your writing. It includes conventions for
+And so much more!
 
-```markdown
-Syntax highlighted code block
+Get your report now to find specific tips for marketers and copywriters
 
-# Header 1
-## Header 2
-### Header 3
+---
+### Finally — a comprehensive resource on copywriter rates for today’s most effective marketing methods
 
-- Bulleted
-- List
+Masterful copywriters are helping companies reach more prospects and customers through compelling stories, the best how-to tips, clear demonstrations, powerful case studies, free reports, benefit-focused emails, and other content across a wide variety of channels.
 
-1. Numbered
-2. List
+This report digs deep into the latest statistics and trends to uncover the major value of copywriting along with today’s copywriter fees.
+---
 
-**Bold** and _Italic_ and `Code` text
+### Be a Small Business with a Big Footprint
+Build a team of freelance writers to make your small business look big on the web.
 
-[Link](url) and ![Image](src)
-```
+### If you’re a marketer …
 
-For more details see [GitHub Flavored Markdown](https://guides.github.com/features/mastering-markdown/).
+Discover how to find professional copywriters who will help you compete more effectively for your potential prospects and customers. 
+Find skilled copywriters now and gain a better understanding of their value, fees and ROI.
 
-### Jekyll Themes
+### If you’re a copywriter …
 
-Your Pages site will use the layout and styles from the Jekyll theme you have selected in your [repository settings](https://github.com/fredsiika/fredsiika.github.io/settings). The name of this theme is saved in the Jekyll `_config.yml` configuration file.
+Find out why freelance writing jobs are plentiful — millions of marketers are scrambling to get more attention, search engine traffic and sales in the cluttered marketing world. Find the clients looking for skilled writers right now.
+---
+
+*Copy Plug (The Copywriting Essential Guide is brought to you by AWAI (American Writers & Artists Inc.)
+
+Fred Siika, founder of Copy Plug, is an experienced direct-response marketer in the life science industry, with the mission of helping entrepreneurs, marketers, and writers earn a great living. 
+
+## The Future of MarTech
+
+See what's possible with cognative apps and how the team at Copy Plug are building a cognitive and content analytics engine using machine learning to:
+
+- Monitor trends and surface patterns
+- Detect sentiment and emotions from people's digital footprints
+- Gain valuable insights from customer opinions
+- Unlock hidden value in data to find answers
+
+Want early access to unbiased martech (marketing technology) success tips devoted to your copywriting business?
+To get exclusive new tips, tools, and guidance every month as a member of our copywriting success community… 
+
+( CTA Button: GIVE ME ACCESS )
+---
 
 ### Support or Contact
 
