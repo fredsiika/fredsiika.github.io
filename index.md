@@ -1,7 +1,7 @@
 State of the Industry Report on Copywriter Rates and Top Performing Marketing Methods: 
 # Copywriting Essentials for Marketing Success
 
-## Scale your Startup
+##Scale your Startup
 Whether you're Aviato or Hooli, content marketing is the best way to build your audience and awareness.
 Expert writers. Intuitive content workflow tools. Only pay for what you love.
 
